@@ -5,7 +5,7 @@
   <div class="paper-box-image">
   <div>
   <div class="badge">MATH3708</div>
-  <img src="assets/img/IMG_0121.JPG" width="100%"></div>
+ <img src="assets/img/IMG_0121.JPG" width="300px">
   </div>
   <div class="paper-box-text">
     <p><a href="https://github.com/Hastronaut/SDCC">Data Analysis for Supplementary Diagnosis of Colorectal Cancer</a></p>
