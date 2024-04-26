@@ -1,6 +1,6 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Undergraduate Projects</h2>
+<h2 id="projects" style="margin: 2px 0px -15px;">Undergraduate Projects</h2>
 
-<div class="publications">
+<div class="projects">
 <ol class="bibliography">
 
 <h4 style="margin:0 10px 0;">First author papers</h4>
@@ -54,7 +54,7 @@
 
 <h4 style="margin:0 10px 0;">Other papers</h4>
 
-{% for link in site.data.publications.other %}
+{% for link in site.data.projects.other %}
 
 <li>
 <div class="pub-row">
