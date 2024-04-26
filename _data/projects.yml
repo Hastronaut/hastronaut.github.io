@@ -2,7 +2,7 @@ main:
 
   - title: Data Analysis for Supplementary Diagnosis of Colorectal Cancer
     conference_short: STAT6128
-    pdf:https://github.com/Hastronaut/SDCC/blob/main/report.pdf
+    pdf: https://github.com/Hastronaut/SDCC/blob/main/report.pdf
     code: https://github.com/Hastronaut/SDCC
     image: ./assets/img/IMG_0121.JPG
 
