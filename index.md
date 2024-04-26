@@ -11,13 +11,6 @@ My research interests involve robust statistics and theory of machine learning a
 I am now preparing my PhD applications for Fall 2025, so if interested, please drop me an email!
 
 
-## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
-
-
 {% include_relative _includes/publications.md %}
 
 ## Education
