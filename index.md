@@ -4,20 +4,24 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am currently a junior student major in Statistics, at Shanghai Jiao Tong University (SJTU). I am honored to be advised by Prof. Simon Dixon and Dr. Mark Levy. Before that, I was a Research Assistant at the Music X Lab, NYU Shanghai. from 2019 to 2020, supervised by Dr. Gus Xia. 
+
+My research interests include controllable music generations with diffusions and LLMs, and Multimodal representation learning for music editing.
+
+I am looking for full-time oppotunities from Nov 2024 on Generative Music AI!
 
 ## Research Interests
 
 - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
 
-## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
 {% include_relative _includes/publications.md %}
 
+## Education
+
+- **[2021 - Current]** Shanghai Jiao Tong University, Shanghai, China
+  - Bachelor. in Statistics
+- **[2018 - 2021]** Zhejiang Rui'an High School, Zhejiang, China
 {% include_relative _includes/services.md %}
