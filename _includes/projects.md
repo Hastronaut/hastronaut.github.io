@@ -6,7 +6,7 @@
 
 <h4 style="margin:0 10px 0;">First-author papers</h4>
 
-{% for link in site.data.publications.main %}
+{% for link in site.data.projects.main %}
 
 <li>
 <div class="pub-row">
@@ -20,7 +20,9 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
+      {% if link.authors %} 
       <div class="author">{{ link.authors }}</div>
+      {% if link.conference %} 
       <div class="periodical"><em>{{ link.conference }}</em>
       </div>
     <div class="links">
