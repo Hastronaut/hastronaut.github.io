@@ -4,8 +4,6 @@
 <ol class="bibliography">
 
 
-<h4 style="margin:0 10px 0;">First-author papers</h4>
-
 {% for link in site.data.projects.main %}
 
 <li>
