@@ -4,11 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am currently a junior student major in Statistics, at Shanghai Jiao Tong University (SJTU). I am honored to be advised by Prof. Simon Dixon and Dr. Mark Levy. Before that, I was a Research Assistant at the Music X Lab, NYU Shanghai. from 2019 to 2020, supervised by Dr. Gus Xia. 
+I am currently a junior student at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/)(SJTU), majored in Statistics.I'm currently collaborating with Professor [Di Wang](https://sites.google.com/site/statdiwang/) at SJTU.
 
-My research interests include controllable music generations with diffusions and LLMs, and Multimodal representation learning for music editing.
+My research interests involve robust statistics and theory of machine learning and deep learning, and I warmly welcome any invitations for further discussions!
 
-I am looking for full-time oppotunities from Nov 2024 on Generative Music AI!
+I am now preparing my PhD applications for Fall 2025, so if interested, please drop me an email!
+
 
 ## Research Interests
 
