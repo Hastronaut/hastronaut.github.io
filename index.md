@@ -9,9 +9,6 @@ I am currently a junior student at [Shanghai Jiao Tong University](https://en.sj
 My research interests involve robust statistics and theory of machine learning and deep learning, and I warmly welcome any invitations for further discussions!
 I am now preparing my PhD applications for Fall 2025, so if interested, please drop me an email!
 
-
-{% include_relative _includes/publications.md %}
-
 ## Education
 
 - **[2021 - Current]** Shanghai Jiao Tong University, Shanghai, China
