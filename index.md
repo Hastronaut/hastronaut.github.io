@@ -17,4 +17,5 @@ I am now preparing my PhD applications for Fall 2025, so if interested, please d
 - **[2021 - Current]** Shanghai Jiao Tong University, Shanghai, China
 - **[2018 - 2021]** Zhejiang Rui'an High School, Zhejiang, China
 
+{% include_relative _includes/projects.md %}
 {% include_relative _includes/services.md %}
