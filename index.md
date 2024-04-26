@@ -22,6 +22,5 @@ I am looking for full-time oppotunities from Nov 2024 on Generative Music AI!
 ## Education
 
 - **[2021 - Current]** Shanghai Jiao Tong University, Shanghai, China
-  - Bachelor. in Statistics
 - **[2018 - 2021]** Zhejiang Rui'an High School, Zhejiang, China
 {% include_relative _includes/services.md %}
