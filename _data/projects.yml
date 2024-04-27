@@ -7,6 +7,14 @@ main:
     pdf: https://github.com/Hastronaut/SDCC/blob/main/report.pdf
     github: https://github.com/Hastronaut/SDCC
     image: ./assets/img/SDCC.pdf
+  
+  - title: Optimized Design of Heliostat Field
+    authors:  Result of CUMCM-2023-A Problem
+    conference: We established an optical loss model and introduced the SLSQP method to solve the problem, utilized initial EB layouts to improve convergence and make improvements with solarPILOT.
+    conference_short: CUMCM
+    pdf: https://github.com/Hastronaut/CUMCM2023/report.pdf
+    github: https://github.com/Hastronaut/CUMCM2023
+    image: ./assets/img/CUMCM2023.pdf
 
   # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
   #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
