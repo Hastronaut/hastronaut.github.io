@@ -6,7 +6,7 @@ main:
     conference_short: STAT6128
     pdf: https://github.com/Hastronaut/SDCC/blob/main/report.pdf
     code: https://github.com/Hastronaut/SDCC
-    image: ./assets/img/avatar.png
+    image: ./assets/img/SDCC.pdf
 
   # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
   #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
