@@ -50,8 +50,6 @@
 {% endfor %}
 
 
-<h4 style="margin:0 10px 0;">Other papers</h4>
-
 {% for link in site.data.projects.other %}
 
 <li>
