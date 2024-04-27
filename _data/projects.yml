@@ -22,6 +22,7 @@ main:
     conference: Conducted simulated computation for the quasi-hereditary orders of Nakayama algebras, and discovered precise expressions of upper and lower bounds and put forward Mobility Theorem for further calculation. 
     conference_short: SJTU-PRP
     pdf: https://github.com/Hastronaut/hastronaut.github.io/blob/main/assets/files/algebra.pdf
+    github: https://github.com/Hastronaut/CUMCM2023
     image: ./assets/img/algebra.pdf
 
   # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
