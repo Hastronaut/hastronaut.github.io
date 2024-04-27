@@ -9,7 +9,7 @@ main:
     image: ./assets/img/SDCC.pdf
   
   - title: Optimized Design of Heliostat Field
-    authors:  Result of CUMCM-2023-A Problem
+    authors: Result of CUMCM-2023-A Problem
     conference: We established an optical loss model and introduced the SLSQP method to solve the problem, utilized initial EB layouts to improve convergence and make improvements with solarPILOT.
     conference_short: CUMCM
     pdf: https://github.com/Hastronaut/CUMCM2023/blob/main/report.pdf
