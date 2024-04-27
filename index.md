@@ -24,10 +24,6 @@ I am now preparing my PhD applications for Fall 2025, so if interested, please d
 
 
 * I enjoy music art, especially for <span class="tooltip">R&B
-       	 <span class="tooltiptext">
-       	   <img src="https://ts1.cn.mm.bing.net/th/id/R-C.1acea02f35d8b723e07f11e0d55b0f94?rik=bvvDZgYAedOJVw&riu=http%3a%2f%2fwomenwriteaboutcomics.com%2fwp-content%2fuploads%2f2015%2f04%2fAttack-on-Titan.jpg&ehk=%2fQ8faZZYP5a8JKEVp9lNgu277ciGeutvbEN3lK2LnZU%3d&risl=&pid=ImgRaw&r=0" ><br>
-                       <a href="https://attackontitan.fandom.com/wiki/Attack_on_Titan_Wiki"> Attack on Titan Wiki</a>
-       	 </span>
 </span> and pop music, and I'm currently learning to play the guitar! I love dancing as well, I'm the member of  International Style of Ballroom Dance Team of the college, and I also has a passion for other dances like hiphop, kpop, etc.
 
 * As for sports, I like basketball and swimming  which always make me relaxed. Besides, I often go to gym regularly with my friends.
