@@ -16,6 +16,14 @@ main:
     github: https://github.com/Hastronaut/CUMCM2023
     image: ./assets/img/CUMCM2023.pdf
 
+
+    - title: Quasi-Hereditary Orderings of An-type Nakayama Algebras
+    authors:  Yuhang Huang, Yuanshen Lin, Yuehui Zhang, Xiaoqiu Zhong
+    conference: Conducted simulated computation for the quasi-hereditary orders of Nakayama algebras, and discovered precise expressions of upper and lower bounds and put forward Mobility Theorem for further calculation. 
+    conference_short: SJTU-PRP
+    pdf: ./assets/files/algebra.pdf
+    image: ./assets/img/algebra.pdf
+
   # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
   #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
   #   conference_short: CVPR
