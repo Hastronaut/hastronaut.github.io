@@ -5,7 +5,7 @@ main:
     conference: We developed a predictive model for a physical examination to serve as supplementary diagnosis of colorectal cancer, and achived an improved result(over 80% accuracy).
     conference_short: STAT6128
     pdf: https://github.com/Hastronaut/SDCC/blob/main/report.pdf
-    code: https://github.com/Hastronaut/SDCC
+    github: https://github.com/Hastronaut/SDCC
     image: ./assets/img/SDCC.pdf
 
   # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
