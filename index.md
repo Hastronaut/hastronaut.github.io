@@ -7,6 +7,7 @@ layout: homepage
 I am currently a junior student at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/)(SJTU), majored in Statistics. I'm currently supervised by Professor [Di Wang](https://sites.google.com/site/statdiwang/) at SJTU.
 
 My research interests involve robust statistics and theory of machine learning and deep learning, and I warmly welcome any invitations for further discussions!
+
 I am now preparing my PhD applications for Fall 2025, so if interested, please drop me an email!
 
 {% include_relative _includes/projects.md %}
