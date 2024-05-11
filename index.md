@@ -23,7 +23,7 @@ I am now preparing my PhD applications for Fall 2025, so if interested, please d
 ##  Misc
 
 
-* I enjoy music art, especially for R&B and pop music, and I'm currently learning to play the guitar! I love dancing as well, I'm the member of  International Style of Ballroom Dance Team of the college, and I also has a passion for other dances like hiphop, kpop, etc.
+* I enjoy music, especially for R&B and pop music, and I'm currently learning to play the guitar! I love dancing as well, I'm the member of  International Style of Ballroom Dance Team of the college.
 
 * As for sports, I like basketball and swimming  which always make me relaxed. Besides, I often go to gym regularly with my friends.
 
